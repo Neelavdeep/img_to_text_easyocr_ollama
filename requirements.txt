@@ -1,0 +1,4 @@
+#keras-ocr
+easyocr
+matplotlib
+#tensorflow==2.0.0
