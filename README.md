@@ -1,0 +1,1 @@
+# img_to_text_easyocr_ollama
